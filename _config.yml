@@ -1,7 +1,7 @@
 name: ARTUROGARCIA
 favicon: null
-layout_spectrum: 0.862125581363216
-typography_spectrum: 0.68867172813043
+layout_spectrum: 0.93623
+typography_spectrum: 0.78998
 title: 'Dancer, Choreographer, Teacher '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.11849231249652803
+  brandStrength: 0.5625
   lightness: 0.25924169132485986
   saturation: 0.9714749085251242
   rhythmicContrast: 0.6716735123191029
