@@ -1,20 +1,4 @@
-name: ARTUROGARCIA
-favicon: null
-layout_spectrum: 0.93623
 typography_spectrum: 0.78998
-title: 'Dancer, Choreographer, Teacher '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,24 @@ color:
   lightness: 0.25924169132485986
   saturation: 0.9714749085251242
   rhythmicContrast: 0.6716735123191029
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.93623
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ARTUROGARCIA
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Company Danzante
+    url: 'http://www.companydanzante.org/'
+    type: external
+favicon: null
+title: 'Dancer, Choreographer, Teacher '
 purpose: []
