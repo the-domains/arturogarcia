@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
 keywords:
   - danzante
   - dance
@@ -15,24 +14,30 @@ keywords:
   - strem
   - companydanzante
   - performers
-description: 'Choreography work & Commissioning Projects.'
-datePublished: '2016-02-20T03:56:17.843Z'
-dateModified: '2016-01-26T03:14:07.427Z'
+description: >-
+  Kennedy Center PerformancesPremiering “Here & Now” by Arturo Garcia
+  Commissioned by the Kennedy Center for the 2014 Local Dance Commissioning
+  ProjectThe program also includes repertory by Katherine Horrigan and Marcus
+  Jarrell Willis.Performed by Company Danzante.Sept. 25th and 26th at 6pm
+datePublished: '2016-08-31T19:44:22.928Z'
+dateModified: '2016-08-31T19:44:22.685Z'
 author:
   - name: Company Danzante
     url: 'https://companydanzante.wordpress.com/author/companydanzante/'
     avatar: {}
 related: []
 app_links: []
-title: Choreographer
-sourcePath: _posts/2016-01-23-arturo-garcia-recipient-of-the-kennedy-centers-2014-local-d.md
-published: true
+title: ''
+sourcePath: >-
+  _posts/2016-01-23-arturo-garcia-recipient-of-the-kennedy-centers-2014-local-d.md
 authors: []
 publisher:
-  name: Company Danzante
-  domain: companydanzante.wordpress.com
-  url: 'http://companydanzante.wordpress.com'
-  favicon: 'https://secure.gravatar.com/blavatar/b636f10f444af82e2b6f2ad2e98a0d3b?s=16'
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
+starred: false
 url: choreographer/index.html
 _context: 'http://schema.org'
 _type: MediaObject
