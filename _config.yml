@@ -11,14 +11,20 @@ color:
   saturation: 0.9714749085251242
   rhythmicContrast: 0.6716735123191029
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d451e25-1de2-4c78-9a75-da671b776094.jpg
   type: null
-  appId: null
+  appId: garciapineda
 layout_spectrum: 0.93623
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Arturo Garcia
+  email: artgarcia9@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/897f6277-0ee6-429a-b2e1-9f87a8ef8d0a.jpg
 name: ARTUROGARCIA
 cta:
   domain: null
@@ -28,6 +34,7 @@ navigation:
   - name: Company Danzante
     url: 'http://www.companydanzante.org/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/954f7591-77b7-4c6f-8910-85f529f14aa6.jpg
 title: 'Dancer, Choreographer, Teacher '
 purpose: []
