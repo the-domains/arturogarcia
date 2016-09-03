@@ -37,6 +37,9 @@ navigation:
   - name: Choreographer
     id: e15e7b8d-0a46-4f38-b697-cd8ad0e74afb
     type: content
+  - name: Dancer
+    id: 00909901-1a2d-43df-a7a5-0634affd1bef
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/954f7591-77b7-4c6f-8910-85f529f14aa6.jpg
 title: 'Dancer, Choreographer, Teacher '
